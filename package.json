@@ -7,10 +7,10 @@
     "build:css": "postcss input.css -o output.css"
   },
   "devDependencies": {
-    "autoprefixer": "^10.0.0",
-    "postcss": "^8.0.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
-    "tailwindcss": "^3.0.0"
+    "tailwindcss": "^3.4.4"
   },
   "author": "Alper",
   "license": "ISC"
