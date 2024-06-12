@@ -1,5 +1,17 @@
 {
+  "name": "lernclub",
+  "version": "1.0.0",
+  "description": "Final",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "postcss input.css -o output.css"
+  },
   "devDependencies": {
-    "tailwindcss": "^3.4.4"
-  }
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.0.0"
+  },
+  "author": "Alper",
+  "license": "ISC"
 }
